@@ -12,7 +12,7 @@
 		"extension"
 	],
 	"nodecg": {
-		"compatibleRange": "1.4.0",
+		"compatibleRange": "1.7.2",
 		"dashboardPanels": [
 			{
 				"name": "lower-third",
